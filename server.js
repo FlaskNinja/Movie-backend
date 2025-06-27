@@ -12,7 +12,7 @@ const genreRoutes = require("./routes/genreRoutes");
 const discoverRoutes = require("./routes/discoverRoutes");
 const userRoutes = require('./routes/userRoutes');
 
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 3000;
 
 
 const app = express();
